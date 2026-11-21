@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/vedha-gallery/static/css/main.c3948ca6.css",
+    "main.js": "/vedha-gallery/static/js/main.14e6f5f8.js",
+    "static/media/veda-logo-spin.webp": "/vedha-gallery/static/media/veda-logo-spin.b6503c5eb4b0e5cdba06.webp",
+    "index.html": "/vedha-gallery/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c3948ca6.css",
+    "static/js/main.14e6f5f8.js"
+  ]
+}
